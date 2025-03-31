@@ -100,7 +100,6 @@ To get a local copy of this project up and running, follow these steps.
 ## Contact
 
    For questions or inquiries, please contact:  
-   Name - Hamza Ali  
-   Email - ellawliet1007@gmail.com  
-   Project Link: https://github.com/hamza2001-max/test-typing-mern
+   Name - Maha 
+   Email - mmahaece07@gmail.com
 
